@@ -1,0 +1,197 @@
+{
+  "تكت": {
+    "responses": [
+      "تفضل <#1481106993644310599>"
+    ],
+    "type": "exact",
+    "deleteUserMsg": false,
+    "useReply": true
+  },
+  "اعلانات": {
+    "responses": [
+      "تفضل <#1483448869244375162>"
+    ],
+    "type": "exact",
+    "deleteUserMsg": false,
+    "useReply": true
+  },
+  "خط!": {
+    "responses": [
+      "https://cdn.discordapp.com/attachments/1471037846575124527/1521955422171566151/standard-1-1.gif?ex=6a46b6f1&is=6a456571&hm=99e4d4fd28f8f1d1dbb549d0b41ecc10dcfcb0fbd2331e6b9c8962720372bfc6&"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": false,
+    "deleteUserMsg": true
+  },
+  "السلام عليكم": {
+    "responses": [
+      "### وعَليكم السَلام ورحمةُ الله ، نورتونا <a:emoji_294:1511524605666267166>"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  },
+  "تصبحون على خير": {
+    "responses": [
+      "### وانتَِ من اهل الخير <:AK199:1484543895487512596>"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  },
+  ".": {
+    "responses": [
+      "### اللهَم صَلّي عَلى مُحمد وعَلى آل محمد <a:emoji_294:1511524605666267166>"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  },
+  "صباح الخير": {
+    "responses": [
+      "### صَباح النُور والعَافية ، نورتوا <:AK111:1472918484072534026>"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  },
+  "عليّ": {
+    "responses": [
+      "لك عوف هذا الاسم مال حور <:AK204:1485323481670484172> \nتعال عليّ رد <:AK75:1470130471827669186> <@1462594720214810829>"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  },
+  "جدو": {
+    "responses": [
+      "لك لك هذا اسمه نينجا مو جدو <:AK264:1507804099981086851> \n-# جذب"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  },
+  "علي": {
+    "responses": [
+      "علي الاكبر؟ هذا ابوي عوفه <:AK165:1477080330027405464>"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  },
+  "نينجا": {
+    "responses": [
+      "هذا عمي وعمك لك <:AK265:1507804204985618442>"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  },
+  "حور": {
+    "responses": [
+      "ترا حور نفسها اني شتريد منها <:AK204:1485323481670484172>"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  },
+  "متجر": {
+    "responses": [
+      "اشتري يلا حرّك جيبك <#1483557467349713026>"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  },
+  "انجب": {
+    "responses": [
+      "انجب انتَ ، عيب"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  },
+  "گينجي": {
+    "responses": [
+      "اخوي الزود وحزام الظهر <:AK103:1472249307020263579>"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  },
+  "دودي": {
+    "responses": [
+      "هعع خالتي المصرية عامله ايه <:AK185:1481814178250493963>"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  },
+  "حوراء": {
+    "responses": [
+      "-# منو هاي ياهو مااعرفها <:AK185:1481814178250493963>"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  },
+  "رقية": {
+    "responses": [
+      "خالتي رقييقيي بثبث <:AK153:1476344669129543837>"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  },
+  "ميامي": {
+    "responses": [
+      "خالتي ميامييي؟؟؟؟؟؟؟"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  },
+  "رضا": {
+    "responses": [
+      "خاالي هاا هاا خااليي <a:AK22:1486191325132095488>"
+    ],
+    "type": "exact",
+    "useEmbed": false,
+    "useReply": true,
+    "deleteUserMsg": false,
+    "requiredRole": null
+  }
+}
